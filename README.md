@@ -6,6 +6,6 @@
 
 ## Usage
 
-Just download the `*.alfredworkflow` file and double click, Alfred will take care of everything else. 
+Just download the `*.alfredworkflow` file (from the **link** above) and double click, Alfred will take care of everything else. 
 
 Please file an issue if you run into any issues: [File an Issue](https://github.com/usmanity/alfred-workflows/issues)
